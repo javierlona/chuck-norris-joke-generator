@@ -5,7 +5,7 @@
 Click for a [Live Demo Here](http://onegreatapp.com/chuck-norris-joke-generator/)
 
 ## Description
-App will return user specified number of Chuck Norris jokes.
+App will display the user's specified requested number of Chuck Norris jokes.
 
 ## Technologies
-Vanilla JS, Bulma CSS, Ajax, External API
+Vanilla JavaScript, Bulma CSS, Ajax, External API
